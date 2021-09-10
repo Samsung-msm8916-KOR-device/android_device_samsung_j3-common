@@ -7,7 +7,7 @@
 # Inherit from common
 include device/samsung/msm8916-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/samsung/j5-common
+LOCAL_PATH := device/samsung/j5-common
 
 # Include board config fragments
 include $(LOCAL_PATH)/board/*.mk
