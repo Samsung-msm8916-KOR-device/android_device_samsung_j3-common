@@ -17,7 +17,6 @@
 
 cc_library_static {
     name: "libinit_j5",
-    defaults: ["//device/samsung/msm8916-common:libinit_msm8916"],
     srcs: ["init_msm8916.cpp"],
     whole_static_libs: ["//device/samsung/msm8916-common:libinit_msm8916"],
 }
