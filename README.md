@@ -1,4 +1,4 @@
- This a W.I.P. LineageOS Device Tree for the <b>Samsung Galaxy J5 (2015)</b>
+ This a W.I.P. LineageOS Device Tree for the <b>Samsung Galaxy J3 (2016)</b>
                             
 For build instructions, please follow <a href="https://github.com/daviiid99/LineageOS_J5-2015/tree/Manifest">Manifest</a>
                             
